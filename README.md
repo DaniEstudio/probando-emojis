@@ -1,7 +1,4 @@
 # probando-emojis
-<<<<<<< HEAD
-Holis
-=======
 # Unicomer Workflow Frontend
 
 [![Quality gate](http://34.139.112.156:9000/api/project_badges/quality_gate?project=unicomer-workflow-frontend&token=e8a55819bb8c72c6865af4e0479d170384ac4ebf)](http://34.139.112.156:9000/dashboard?id=unicomer-workflow-frontend)
@@ -174,4 +171,3 @@ Run `npm test:watch` to watch files for changes and rerun all tests when somethi
 [&uarr; Back to top](#unicomer-workflow-frontend)
  
  
->>>>>>> bdbb33782ae09a47ef17b3e6d59e505cd6daa8f1
